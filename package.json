@@ -2,7 +2,7 @@
   "name": "nft-marketplace",
   "version": "0.1.0",
   "private": true,
-  "author" : "jupiter",
+  "author" : "114566",
   "dependencies": {
     "@google/model-viewer": "^1.10.1",
     "@testing-library/jest-dom": "^5.16.1",
